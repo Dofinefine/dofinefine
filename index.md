@@ -1,5 +1,7 @@
 ## Daohuai Jiang Page
 <img src="jj.png" width="40%">
+
+
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
 <a href="http://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
@@ -61,4 +63,19 @@ Student Member, IEEE, 2019.6-present.
 
 ### Email:
             jdaohuai(at)163.com
+            
+
+## My Research
+### Delay-Line
+
+#### RC delay-line module
+
+<img src="FPGA.jpg" width="40%">
+[The RC delay-line module]
+
+<img src="PATsystem.jpg" width="40%">
+[4-in-1 low-cost PAT system]
+
+
+
 
