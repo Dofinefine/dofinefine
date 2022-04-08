@@ -9,8 +9,7 @@ I am now a Ph.D. candidate at Hybrid Imaging System Laboratory. I am also with t
 
 ### Education
 Ph.D. in Electronic Science and Technology, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2018 - Present  
-
-
+<img src="jj.png" width="60%">
 
 ![alt text](jj.png "text" width="40%" )
 
