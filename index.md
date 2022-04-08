@@ -11,9 +11,9 @@ I am now a Ph.D. candidate at Hybrid Imaging System Laboratory. I am also with t
 Ph.D. in Electronic Science and Technology, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2018 - Present  
 <img src="jj.png" width="60%">
 
-![alt text](jj.png "text" width="40%" )
+![alt text](jj.png "text"  )
 
-{% img [jdh] jj.png [300] [300] [title text [alt text]] %}
+
 <img src="jj.png" width="60%">
 ### **Research Interest**
 Photoacoustic Tomography (**PAT**) System Design    
