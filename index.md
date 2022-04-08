@@ -16,7 +16,7 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 ### **Research Interest**
-Photoacoustic Tomography (PAT) System Design    
+Photoacoustic Tomography (**PAT**) System Design    
 Low-cost PAT system with delay-line module
 Imaging size adjustable PAT system
 Flexible 3D PAT system     
@@ -24,7 +24,7 @@ Photoacoustic for clinical applications
 
 
 ### Awards
-Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 and 2021.   
+Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.   
             
             
 ### **Publication**
