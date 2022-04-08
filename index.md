@@ -13,7 +13,7 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 
-![alt text](jj.png "Title")
+jj.png 
 
 
 
