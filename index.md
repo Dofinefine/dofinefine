@@ -30,7 +30,7 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 a
 ### **Publication**
 
 #### Journal Papers
-**[5]**  Daohuai Jiang, et al, and  Fei Gao*, “Programmable Acoustic Delay-Line Enabled Low-Cost Photoacoustic Tomography System”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , to appear (2022). (Preprint: arXiv:2012.03943 )       
+&#8194 **[5]**  Daohuai Jiang, et al, and  Fei Gao*, “Programmable Acoustic Delay-Line Enabled Low-Cost Photoacoustic Tomography System”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , to appear (2022). (Preprint: arXiv:2012.03943 )       
 **[4]**  Daohuai Jiang†, Yifei Xu†, et al, Li Liu*, and Fei Gao*, “Size-adjustable Ring-shape Photoacoustic Tomography Imager in vivo”, Journal of Biophotonics, to appear (2022) (Preprint: arXiv:2112.11630 )   
 **[3]**  Jiaxian Zhao†, Daohuai Jiang†, Binbin Cong, Fei Gao*, and Yongsheng Wang*, “Basic research on photoacoustic sensing and imaging system for detecting sentinel lymph node in breast cancer”, China Oncology, 32(2), 106-117 (2022)    
 **[2]**  Hengrong Lan†, Daohuai Jiang†, Feng Gao and Fei Gao*, “Deep Learning Enabled Real-Time Photoacoustic Tomography System via Single Data Acquisition Channel”, Photoacoustics, to appear (2021) (Preprint: arXiv:2001.07454 )         
