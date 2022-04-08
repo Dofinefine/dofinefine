@@ -78,6 +78,10 @@ Student Member, IEEE, 2019.6-present.
 
 [4-in-1 low-cost PAT system]
 
+<img src="PATsystem.jpg" width="40%">
+
+[Imaging results]
+
 #### Acoustic delay-line module
 
 <img src="adelayline.jpg" width="40%">
@@ -92,9 +96,9 @@ Student Member, IEEE, 2019.6-present.
 
 [Low-cost PAT system]
 
-<img src="finger.jpg" width="40%">
+<!-- <img src="finger.jpg" width="40%">
 
-[In-vivo imaging results of human fingers]
+[In-vivo imaging results of human fingers] -->
 
 
 ### Size adjustable PAT
