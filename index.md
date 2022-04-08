@@ -103,7 +103,7 @@ Student Member, IEEE, 2019.6-present.
 
 ### Size adjustable PAT
 
-<img src="Abstract_Figure.jpg" width="60%">
+<img src="Abstract_Figure.jpg" width="80%">
 
 [size adjustable PAT system]
 
