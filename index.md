@@ -12,7 +12,15 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 
-![alt text](jj.png "text", 400*300)
+![alt text](jj.png "text")
+![text image size](url){:class="img-responsive"}
+![text image size](url){:height="50%" width="50%"}
+![text image size](url){:height="100px" width="400px"}
+
+作者：朱凯
+链接：https://www.zhihu.com/question/23378396/answer/234858357
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 ### **Research Interest**
