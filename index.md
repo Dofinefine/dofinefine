@@ -65,45 +65,45 @@ Student Member, IEEE, 2019.6-present.
             jiangdh1(at)shanghaitech.edu.cn
             
 
-# My Research
+**# My Research**
 ### Delay-Line
 
 #### RC delay-line module
 
-<img src="FPGA.jpg" width="40%">
+<img src="FPGA.jpg" width="60%">
 
 [The RC delay-line module]
 
-<img src="PATsystem.jpg" width="40%">
+<img src="PATsystem.jpg" width="80%">
 
 [4-in-1 low-cost PAT system]
 
-<img src="PATsystem.jpg" width="40%">
+<img src="PATsystem.jpg" width="60%">
 
 [Imaging results]
 
 #### Acoustic delay-line module
 
-<img src="adelayline.jpg" width="40%">
+<img src="adelayline.jpg" width="60%">
 
 [Acoustic delay-line module]
 
-<img src="flow.jpg" width="40%">
+<img src="flow.jpg" width="60%">
 
 [Delay Signals Flow]
 
-<img src="system.jpg" width="40%">
+<img src="system.jpg" width="60%">
 
 [Low-cost PAT system]
 
-<!-- <img src="finger.jpg" width="40%">
+<!-- <img src="finger.jpg" width="60%">
 
 [In-vivo imaging results of human fingers] -->
 
 
 ### Size adjustable PAT
 
-<img src="Abstract_Figure.jpg" width="40%">
+<img src="Abstract_Figure.jpg" width="60%">
 
 [size adjustable PAT system]
 
