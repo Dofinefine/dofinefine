@@ -12,7 +12,7 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 
-![alt text](jj.png "text" =400*300)
+![alt text](jj.png "text", 400*300)
 
 
 ### **Research Interest**
