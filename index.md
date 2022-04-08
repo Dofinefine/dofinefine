@@ -1,6 +1,6 @@
-## Daohuai Jiang (Email: jiangdh1(at)shanghaitech.edu.cn)
+## Daohuai Jiang Page
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
-<a href="https://www.hislab.cn//" target="_blank">Hybrid Imaging System Laboratory</a><br />
+<a href="https://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
 <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a><br />
 <a href="http://sim.cas.cn/">Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences</a><br />
@@ -22,7 +22,8 @@ Photoacoustic for clinical applications
 ### Awards
 Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 and 2021.   
 
-
+### Email:
+            jdaohuai(at)163.com
 ### Publication
 
 #### Journal Papers
