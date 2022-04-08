@@ -92,7 +92,7 @@ Student Member, IEEE, 2019.6-present.
 
 [Delay Signals Flow]
 
-<img src="system.jpg" width="70%">
+<img src="system.jpg" width="60%">
 
 [Low-cost PAT system]
 
@@ -103,7 +103,7 @@ Student Member, IEEE, 2019.6-present.
 
 ### Size adjustable PAT
 
-<img src="Abstract_Figure.jpg" width="80%">
+<img src="Abstract_Figure.jpg" width="70%">
 
 [size adjustable PAT system]
 
