@@ -1,27 +1,27 @@
 ## Daohuai Jiang (Email: jiangdh1(at)shanghaitech.edu.cn)
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
-<a href="https://pearl.shanghaitech.edu.cn/" target="_blank">Power Electronics And Renewable energies Laboratory</a><br />
+<a href="https://www.hislab.cn//" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
 <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a><br />
 <a href="http://sim.cas.cn/">Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences</a><br />
 ### About me
-I am now a Ph.D. candidate at Power Electronics And Renewable energies Laboratory. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences. My research advisor is Prof. Haoyu Wang. The research in our laboratory is revolved around modeling, simulating, prototyping, and validating power electronics systems in the applications of electrified transportation, renewable energies harvesting, smart home, power management of wearable devices and many more. My research interest is in GaN power semiconductor and its applications in high frequency bidirectional dc/dc converters.
+I am now a Ph.D. candidate at Hybrid Imaging System Laboratory. I am also with the Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, and University of Chinese Academy of Sciences. My research advisor is Prof. Fei Gao. The research in our laboratory is photoacoustic imaging and its applications. My research interest is photoacoustic tomography system design and its biomedical applications such as breast cancer detections.
 
 ### Education
 Ph.D. in Electronic Science and Technology, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2018 - Present  
-B.E. in Automation, Northwestern Polytechnical University, Sept. 2012- Jun. 2016
+
 
 ### Research Interest
-AC/DC converter     
-Resonant converter    
-Bidirectional DC/DC converter     
-GaN power semiconductor      
-High power density and high efficiency     
+Photoacoustic Tomography (PAT) System Design    
+Low-cost PAT system with delay-line module
+Imaging size adjustable PAT system
+Flexible 3D PAT system     
+Photoacoustic for clinical applications     
 
 
 ### Awards
 Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 and 2021.   
-Outstanding Student Scholarship of Northwestern Polytechnical University in 2013.
+
 
 ### Publication
 
