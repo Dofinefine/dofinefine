@@ -12,8 +12,8 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 
-![alt text](jj.png width=50%)
-<img src=jj.png width=60% />
+![alt text](jj.png 300*200)
+
 
 ### **Research Interest**
 Photoacoustic Tomography (**PAT**) System Design    
