@@ -74,7 +74,7 @@ Student Member, IEEE, 2019.6-present.
 
 [The RC delay-line module]
 
-<img src="PATsystem.jpg" width="80%">
+<img src="PATsystem.jpg" width="60%">
 
 [4-in-1 low-cost PAT system]
 
@@ -92,7 +92,7 @@ Student Member, IEEE, 2019.6-present.
 
 [Delay Signals Flow]
 
-<img src="system.jpg" width="60%">
+<img src="system.jpg" width="70%">
 
 [Low-cost PAT system]
 
