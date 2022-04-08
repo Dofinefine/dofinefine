@@ -13,8 +13,8 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 ![alt text](jj.png "text" width="40%" )
 
-{% img [jdh] source/image/jj.png [300] [300] [title text [alt text]] %}
-<img src="source/image/jj.png" width="60%">
+{% img [jdh] jj.png [300] [300] [title text [alt text]] %}
+<img src="jj.png" width="60%">
 ### **Research Interest**
 Photoacoustic Tomography (**PAT**) System Design    
 Low-cost PAT system with delay-line module
