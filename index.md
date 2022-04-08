@@ -12,7 +12,7 @@ Ph.D. in Electronic Science and Technology, ShanghaiTech University/University o
 
 
 
-![](jj.png =300*300)
+![alt "text"](jj.png "text")
 
 
 
