@@ -62,10 +62,10 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 Student Member, IEEE, 2019.6-present.      
 
 ### Email:
-            jdaohuai(at)163.com
+            jiangdh1(at)shanghaitech.edu.cn
             
 
-## My Research
+# My Research
 ### Delay-Line
 
 #### RC delay-line module
