@@ -1,4 +1,5 @@
 ## Daohuai Jiang Page
+<img src="jj.png" width="40%">
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
 <a href="http://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
@@ -9,12 +10,12 @@ I am now a Ph.D. candidate at Hybrid Imaging System Laboratory. I am also with t
 
 ### Education
 Ph.D. in Electronic Science and Technology, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2018 - Present  
-<img src="jj.png" width="40%">
 
-![alt text](jj.png "text"  )
-<!-- <! # (哈哈我是注释，不会在浏览器中显示。)  -->
 
-<img src="jj.png" width="60%">
+<!-- ![alt text](jj.png "text"  ) -->
+
+
+<!-- <img src="jj.png" width="60%"> -->
 ### **Research Interest**
 Photoacoustic Tomography (**PAT**) System Design    
 Low-cost PAT system with delay-line module
