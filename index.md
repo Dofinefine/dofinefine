@@ -1,6 +1,6 @@
 ## Daohuai Jiang Page
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
-<a href="https://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
+<a href="http://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
 <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a><br />
 <a href="http://sim.cas.cn/">Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences</a><br />
@@ -27,34 +27,24 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018, 2019, 2020 a
 ### Publication
 
 #### Journal Papers
-[J5] M. Zhou, D. Shu, and H. Wang*,  "An H5-bridge based laddered CLLC DCX with variable DC-link for PEV charging applications," <em>IEEE Trans. Power Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9591480" target="_blank"> [URL]</a>       
-[J4] D. Shu, H. Wang*, and M. Zhou, "Universal control scheme to achieve seamless dynamic transition of dual-active-bridge converters using zero-current prediction," <em>IEEE Trans. Ind. Electron.</em>, in press. <a href="https://ieeexplore.ieee.org/document/9464635" target="_blank"> [URL]</a>   
-[J3] D. Shu and H. Wang*, "Light load performance enhancement technique for LLC-based PEV charger through circuit reconfiguration," <em>IEEE Trans. Transp. Electrif.</em>, vol. 7, no. 4, pp. 2104-2113, Dec. 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9427258" target="_blank"> [URL]</a>     
-[J2] D. Shu and H. Wang*, "An ultra-wide output range <em>LLC</em> resonant converter based on adjustable turns ratio transformer and reconfigurable bridge," <em>IEEE Trans. Ind. Electron.</em>, vol. 68, no. 8, pp. 7115-7124, Aug. 2021. <a href="https://ieeexplore.ieee.org/document/9145821/" target="_blank"> [URL]</a>          
-[J1] H. Wang*, M. Shang, and D. Shu, "Design considerations of efficiency enhanced <em>LLC</em> PEV charger using reconfigurable transformer," <em>IEEE Trans. Veh. Technol.</em>, vol. 68, no. 9, pp. 8642-8651, Sept. 2019. <a href="https://ieeexplore.ieee.org/document/8770130" target="_blank"> [URL]</a>       
+[J5] Daohuai Jiang, et al, and  Fei Gao*, “Programmable Acoustic Delay-Line Enabled Low-Cost Photoacoustic Tomography System”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , to appear (2022). (Preprint: arXiv:2012.03943 )</a>       
+[J4] Daohuai Jiang†, Yifei Xu†, et al, Li Liu*, and Fei Gao*, “Size-adjustable Ring-shape Photoacoustic Tomography Imager in vivo”, Journal of Biophotonics, to appear (2022) (Preprint: arXiv:2112.11630 )</a>   
+[J3] Jiaxian Zhao†, Daohuai Jiang†, Binbin Cong, Fei Gao*, and Yongsheng Wang*, “Basic research on photoacoustic sensing and imaging system for detecting sentinel lymph node in breast cancer”, China Oncology, 32(2), 106-117 (2022)</a>     
+[J2] Hengrong Lan†, Daohuai Jiang†, Feng Gao and Fei Gao*, “Deep Learning Enabled Real-Time Photoacoustic Tomography System via Single Data Acquisition Channel”, Photoacoustics, to appear (2021) (Preprint: arXiv:2001.07454 )</a>          
+[J1]Daohuai Jiang, Hengrong Lan, Hongtao Zhong, Yongjian Zhao, Haoyan Li, and Fei Gao*, “Low-Cost Photoacoustic Tomography System Based on Multi-Channel Delay-Line Module” IEEE International Symposium on Circuits and Systems (ISCAS), 2019 (oral, selected as one of the top papers and invited to IEEE Trans. CASII).</a>       
       
 #### Conference Papers
-[C3] M. Zhou, H. Wang*, and D. Shu, "Design methodology to reduce the lumped winding capacitance of spiral winding transformer in LLC converters," in <em>Proc. IEEE Energy Convers. Congr. Expo. (ECCE)</em>, Vancouver, BC, Oct. 2021. <a href="" target="_blank"> [URL]</a>          
-[C2] D. Shu, and H. Wang*, "An Adjustable Turns Ratio Transformer Based LLC Converter for Deeply-depleted PEV Charging Applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, New Orleans, LA, Mar. 2020, pp. 860-864. <a href="https://ieeexplore.ieee.org/abstract/document/9124450" target="_blank"> [URL]</a>         
-[C1] U. Khalid, D. Shu, and H. Wang*, "Hybrid modulated reconfigurable bidirectional <em>CLLC</em> converter for V2G enabled PEV charging applications," in <em>Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</em>, Anaheim, CA, Mar. 2019, pp. 3232-3238.<a href="https://ieeexplore.ieee.org/document/8721807" target="_blank"> [URL]</a>         
+[C3] Daohuai Jiang, et al, Fei Gao*, “Size-Adjustable Photoacoustic Tomography System with Sectorial Ultrasonic Transducer Array” IEEE International Symposium on Circuits and Systems (ISCAS), 2021. (oral)</a>          
+[C2] Daohuai Jiang, Yifei Xu, Yongjian Zhao, Hengrong Lan, and Fei Gao*, “Low-Cost Photoacoustic Tomography System Based on Water-Made Acoustic Delay-Line” IEEE International Ultrasonics Symposium (IUS), 2019</a>         
+[C1] Daohuai Jiang, Hengrong Lan, Hongtao Zhong, Yongjian Zhao, Haoyan Li, and Fei Gao*, “Low-Cost Photoacoustic Tomography System Based on Multi-Channel Delay-Line Module” IEEE International Symposium on Circuits and Systems (ISCAS), 2019 (oral, selected as one of the top papers and invited to IEEE Trans. CASII).</a>         
 
 #### Patents
-[P2] 束冬冬, 王浩宇, "一种轻载性能提升的LLC谐振变换器," 中国, 专利申请号202110365380.9, 2021年4月6日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>     
-[P1] 束冬冬, 王浩宇, "一种改善双有源桥动态性能的新型通用四移相调制方法," 中国, 专利申请号202011526153.1, 2020年12月22日. <a href="http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml" target="_blank"> [URL]</a><br/>
+[P2] 高飞;江道淮;高峰, "[实用新型] 扇形超声换能器阵列结构及全环超声波检测阵列结构," 中国, 申请号：2020227303920  申请日：2020.11.23. </a><br/>     
+[P1] 高飞;王誉洁;江道淮;高峰, "[实用新型] 一种基于频分复用的多合一数据采集装置及系统," 中国, 申请号：2020226625679 申请日：2020.11.17. </a><br/>
 
-
-### Teaching Assistant Experiences
--EE270: Modeling and control of power electronic converters, Fall 2020.  
--SI200: Graduate thesis writing, Spring 2021
 
 ### Professional Services
 #### Membership
 Student Member, IEEE, 2019.6-present.      
-Student Member, CPSS, 2020.1-present.
-#### Peer-reviewing Activities
-<a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359240" target="_blank">IEEE Transactions on Power Electronics</a><br />
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">IEEE Transactions on Industrial Electronics</a><br />
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316" target="_blank">IEEE Transactions on Transportation Electrification</a><br />
-<a href="http://www.apec-conf.org/" target="_blank">IEEE Appl. Power Electron. Conf. Expo. (APEC)</a><br />
 
 
