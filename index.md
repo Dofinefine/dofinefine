@@ -71,10 +71,37 @@ Student Member, IEEE, 2019.6-present.
 #### RC delay-line module
 
 <img src="FPGA.jpg" width="40%">
+
 [The RC delay-line module]
 
 <img src="PATsystem.jpg" width="40%">
+
 [4-in-1 low-cost PAT system]
+
+#### Acoustic delay-line module
+
+<img src="adelayline.jpg" width="40%">
+
+[Acoustic delay-line module]
+
+<img src="flow.jpg" width="40%">
+
+[Delay Signals Flow]
+
+<img src="system.jpg" width="40%">
+
+[Low-cost PAT system]
+
+<img src="finger.jpg" width="40%">
+
+[In-vivo imaging results of human fingers]
+
+
+### Size adjustable PAT
+
+<img src="Abstract_Figure.jpg" width="40%">
+
+[size adjustable PAT system]
 
 
 
