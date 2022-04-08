@@ -78,7 +78,7 @@ Student Member, IEEE, 2019.6-present.
 
 [4-in-1 low-cost PAT system]
 
-<img src="PATsystem.jpg" width="60%">
+<img src="ringfig.jpg" width="60%">
 
 [Imaging results]
 
