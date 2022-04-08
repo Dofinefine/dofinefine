@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-hexo new post 照片
+post_asset_folder: true
