@@ -1,4 +1,4 @@
-## Daohuai Jiang Page
+## Daohuai Jiang 
 <img src="jj.png" width="40%">
 
 
@@ -96,9 +96,9 @@ Student Member, IEEE, 2019.6-present.
 
 [Low-cost PAT system]
 
-<!-- <img src="finger.jpg" width="60%">
+<img src="finger.jpg" width="60%">
 
-[In-vivo imaging results of human fingers] -->
+[In-vivo imaging results of human fingers]
 
 
 
