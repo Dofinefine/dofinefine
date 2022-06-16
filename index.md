@@ -1,6 +1,7 @@
-##Daohuai Jiang
+## Daohuai Jiang
 
 <img src="jj.png" width="40%">
+
 **Welcome to my page**
 
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
