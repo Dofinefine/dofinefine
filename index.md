@@ -67,6 +67,8 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 ### Professional Services
 #### Membership
 Student Member, IEEE, 2019.6-present.      
+#### Teaching Assistant
+EE 212 Analog Integrated Circuit 2019-2021
 
 ### Email:
             jiangdh1(at)shanghaitech.edu.cn
@@ -115,5 +117,5 @@ Student Member, IEEE, 2019.6-present.
 
 [size adjustable PAT system]
 
-
+update at: Jun,16th,2022
 
