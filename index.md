@@ -1,4 +1,4 @@
-# Welcome
+Welcome to my page
 ## Daohuai Jiang 
 <img src="jj.png" width="40%">
 
