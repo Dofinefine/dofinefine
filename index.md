@@ -1,10 +1,7 @@
-Daohuai Jiang
-
-
-**Welcome to my page**
+#Daohuai Jiang
 
 <img src="jj.png" width="40%">
-## Daohuai Jiang 
+**Welcome to my page**
 
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
 <a href="http://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
