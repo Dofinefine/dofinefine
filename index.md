@@ -27,12 +27,15 @@ Photoacoustic for clinical applications
 
 
 ### Awards
-Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.   
+Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
+**Merit Student** of ShanghaiTech University in 2020-2021.
             
             
 ### **Publication**
 
 #### Journal Papers
+
+**[6]** Junxiang Cai†, Yiyun Wang†, **Daohuai Jiang**, Liang Lou, Songsong Zhang, Alex Gu, Fei Gao* and Tao Wu*, “BEYOND FUNDAMENTAL RESONANCE MODE: HIGH-ORDER MULTI-BAND ALN PMUT FOR PHOTOACOUSTIC IMAGING IN VIVO” Microsystems & Nanoengineering, to appear 2022
 
 **[5]**   **Daohuai Jiang,** et al, and  Fei Gao*, “Programmable Acoustic Delay-Line Enabled Low-Cost Photoacoustic Tomography System”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , to appear (2022). (Preprint: arXiv:2012.03943 )
 
@@ -45,6 +48,10 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 **[1]**   **Daohuai Jiang**, Hengrong Lan, Hongtao Zhong, Yongjian Zhao, Haoyan Li, and Fei Gao*, “Low-Cost Photoacoustic Tomography System Based on Multi-Channel Delay-Line Module” IEEE International Symposium on Circuits and Systems (ISCAS), 2019 (oral, selected as one of the top papers and invited to IEEE Trans. CASII).       
       
 #### Conference Papers
+
+**[5]**   **Daohuai Jiang**†, Jiaxian Zhao†, Yifan Zhang, Binbin Cong, Yuting Shen, Feng Gao, Yongsheng Wang*, and Fei Gao*, “Integrated Photoacoustic Pen for Breast Cancer Sentinel Lymph Node Detection” IEEE International Ultrasonics Symposium (IUS ), 2022 (oral)
+
+**[4]**   **Daohuai Jiang**†, Hongbo Chen†, Feng Gao, Rui Zheng*, and Fei Gao*, “Hand-Held 3D Photoacoustic Imaging System with GPS” IEEE International Ultrasonics Symposium (IUS ), 2022. 
 
 **[3]**   **Daohuai Jiang**, et al, Fei Gao*, “Size-Adjustable Photoacoustic Tomography System with Sectorial Ultrasonic Transducer Array” IEEE International Symposium on Circuits and Systems (ISCAS), 2021. (oral)  
 
