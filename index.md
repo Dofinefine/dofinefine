@@ -33,6 +33,8 @@ Photoacoustic for clinical applications
 Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 
 **Merit Student** of ShanghaiTech University in 2020-2021.
+
+**Merit Student** of University of Chinese Academy of Sciences in 2021-2022.
             
             
 ### **Publication**
