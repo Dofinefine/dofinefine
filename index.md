@@ -39,6 +39,8 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 
 #### Journal Papers
 
+**[7]** **Daohuai Jiang**, H. Chen, R. Zheng, and F. Gao, "Hand-held free-scan 3D photoacoustic tomography with global positioning system," Journal of Applied Physics, vol. 132, no. 7, p. 074904, 2022.
+
 **[6]** Junxiang Cai†, Yiyun Wang†, **Daohuai Jiang**, Liang Lou, Songsong Zhang, Alex Gu, Fei Gao* and Tao Wu*, “BEYOND FUNDAMENTAL RESONANCE MODE: HIGH-ORDER MULTI-BAND ALN PMUT FOR PHOTOACOUSTIC IMAGING IN VIVO” Microsystems & Nanoengineering, to appear 2022
 
 **[5]**   **Daohuai Jiang,** et al, and  Fei Gao*, “Programmable Acoustic Delay-Line Enabled Low-Cost Photoacoustic Tomography System”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , to appear (2022). (Preprint: arXiv:2012.03943 )
