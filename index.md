@@ -125,6 +125,20 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [size adjustable PAT system]
 
+<img src="Figure_7.jpg" width="70%">
+
+[size adjustable simulation results]
+
+
+<img src="Figure_13.jpg" width="70%">
+
+[in-vivo wrist and ankle imaging results]
+
+
+<img src="Figure_14.jpg" width="70%">
+
+[in-vivo finger imaging results]
+
 
 ### Handheld 3D PAT system with GPS
 
