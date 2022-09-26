@@ -126,7 +126,7 @@ EE 212 Analog Integrated Circuit 2019-2021
 [size adjustable PAT system]
 
 
-<img src="2.tif" width="70%">
+<img src="3D PAT system.jpg" width="70%">
 
 update at: Jun,16th,2022
 
