@@ -121,6 +121,10 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 ### Size adjustable PAT
 
+<img src="JBIO_cover draft.jpg" width="70%">
+
+[Cover page of JBIO]
+
 <img src="Abstract_Figure.jpg" width="70%">
 
 [size adjustable PAT system]
