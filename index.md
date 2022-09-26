@@ -83,41 +83,6 @@ EE 212 Analog Integrated Circuit 2019-2021
             
 
 # **My Research**
-### Delay-Line
-
-#### RC delay-line module
-
-<img src="FPGA.jpg" width="60%">
-
-[The RC delay-line module]
-
-<img src="PATsystem.jpg" width="60%">
-
-[4-in-1 low-cost PAT system]
-
-<img src="ringfig.jpg" width="60%">
-
-[Imaging results]
-
-#### Acoustic delay-line module
-
-<img src="adelayline.jpg" width="60%">
-
-[Acoustic delay-line module]
-
-<img src="flow.jpg" width="60%">
-
-[Delay Signals Flow]
-
-<img src="system.jpg" width="60%">
-
-[Low-cost PAT system]
-
-<img src="finger.jpg" width="60%">
-
-[In-vivo imaging results of human fingers]
-
-
 
 ### Size adjustable PAT
 
@@ -158,5 +123,44 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [in-vivo wrist blood vessel 3D PAT imaging]
 
-update at: Jun,16th,2022
+
+### Delay-Line
+
+#### RC delay-line module
+
+<img src="FPGA.jpg" width="60%">
+
+[The RC delay-line module]
+
+<img src="PATsystem.jpg" width="60%">
+
+[4-in-1 low-cost PAT system]
+
+<img src="ringfig.jpg" width="60%">
+
+[Imaging results]
+
+#### Acoustic delay-line module
+
+<img src="adelayline.jpg" width="60%">
+
+[Acoustic delay-line module]
+
+<img src="flow.jpg" width="60%">
+
+[Delay Signals Flow]
+
+<img src="system.jpg" width="60%">
+
+[Low-cost PAT system]
+
+<img src="finger.jpg" width="60%">
+
+[In-vivo imaging results of human fingers]
+
+
+
+
+
+update at: Sep,26th,2022
  
