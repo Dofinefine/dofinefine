@@ -41,7 +41,7 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 
 #### Journal Papers
 
-**[7]** **Daohuai Jiang**, H. Chen, R. Zheng, and F. Gao, "Hand-held free-scan 3D photoacoustic tomography with global positioning system," Journal of Applied Physics, vol. 132, no. 7, p. 074904, 2022.
+**[7]** **Daohuai Jiang**†, H. Chen†, R. Zheng, and F. Gao, "Hand-held free-scan 3D photoacoustic tomography with global positioning system," Journal of Applied Physics, vol. 132, no. 7, p. 074904, 2022.
 
 **[6]** Junxiang Cai†, Yiyun Wang†, **Daohuai Jiang**, Liang Lou, Songsong Zhang, Alex Gu, Fei Gao* and Tao Wu*, “BEYOND FUNDAMENTAL RESONANCE MODE: HIGH-ORDER MULTI-BAND ALN PMUT FOR PHOTOACOUSTIC IMAGING IN VIVO” Microsystems & Nanoengineering, to appear 2022
 
@@ -115,9 +115,11 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [Overview of the system]
 
+
 <img src="3D PAT system flow22.jpg" width="70%">
 
 [3D PAT image reconstruction]
+
 
 <img src="3D PAT system.jpg" width="70%">
 
@@ -132,9 +134,11 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [The RC delay-line module]
 
+
 <img src="PATsystem.jpg" width="60%">
 
 [4-in-1 low-cost PAT system]
+
 
 <img src="ringfig.jpg" width="60%">
 
@@ -146,13 +150,16 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [Acoustic delay-line module]
 
+
 <img src="flow.jpg" width="60%">
 
 [Delay Signals Flow]
 
+
 <img src="system.jpg" width="60%">
 
 [Low-cost PAT system]
+
 
 <img src="finger.jpg" width="60%">
 
