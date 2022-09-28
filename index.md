@@ -3,7 +3,7 @@
 <img src="jj.png" width="40%">
 
 **Welcome to my page**
-#welcome
+
 [<a href="https://scholar.google.com.hk/citations?user=vN6dzX0AAAAJ&hl=zh-CN">Google scholar</a>]<br/>
 <a href="http://www.hislab.cn/" target="_blank">Hybrid Imaging System Laboratory</a><br />
 <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a><br />
@@ -79,7 +79,8 @@ Student Member, IEEE, 2019.6-present.
 EE 212 Analog Integrated Circuit 2019-2021
 
 ### Email: `jiangdh1(at)shanghaitech.edu.cn`
-            
+
+[chinese](#jiangpage_cn)
 
 # **My Research**
 
