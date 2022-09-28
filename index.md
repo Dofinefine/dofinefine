@@ -78,7 +78,7 @@ Student Member, IEEE, 2019.6-present.
 #### Teaching Assistant
 EE 212 Analog Integrated Circuit 2019-2021
 
-### Email: ' jiangdh1(at)shanghaitech.edu.cn'
+### Email: `jiangdh1(at)shanghaitech.edu.cn`
             
 
 # **My Research**
