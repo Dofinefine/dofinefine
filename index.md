@@ -80,7 +80,6 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 ### Email: `jiangdh1(at)shanghaitech.edu.cn`
 
-[chinese](#jiangpage_cn)
 
 # **My Research**
 
