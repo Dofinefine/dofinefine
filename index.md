@@ -150,24 +150,26 @@ EE 212 Analog Integrated Circuit 2019-2021
 [Acoustic delay-line module]
 
 
-<img src="flow.jpg" width="60%">
+<img src="flow.jpg" width="80%">
 
 [Delay Signals Flow]
 
 
-<img src="system.jpg" width="60%">
+<img src="system.jpg" width="80%">
 
 [Low-cost PAT system]
 
 
-<img src="finger.jpg" width="60%">
+<img src="finger.jpg" width="80%">
 
 [In-vivo imaging results of human fingers]
 
-##Google scholar
+### Google scholar
 
 <img src="_Daohuai JiangPage1.jpg" width="80%">
+
 <img src="_Daohuai JiangPage2.jpg" width="80%">
+
 <img src="_Daohuai JiangPage3.jpg" width="80%">
 
 
