@@ -164,16 +164,6 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [In-vivo imaging results of human fingers]
 
-### Google scholar
-
-<img src="_Daohuai JiangPage1.jpg" width="60%">
-
-
-<img src="_Daohuai JiangPage2.jpg" width="60%">
-
-
-<img src="_Daohuai JiangPage3.jpg" width="60%">
-
 
 
 
