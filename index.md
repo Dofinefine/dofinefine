@@ -168,7 +168,9 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 <img src="_Daohuai JiangPage1.jpg" width="80%">
 
+
 <img src="_Daohuai JiangPage2.jpg" width="80%">
+
 
 <img src="_Daohuai JiangPage3.jpg" width="80%">
 
