@@ -25,8 +25,10 @@ Photoacoustic Tomography (**PAT**) System Design
 Low-cost PAT system with delay-line module
 
 Imaging size adjustable PAT system
-Flexible 3D PAT system     
-Photoacoustic for clinical applications     
+Handheld 3D PAT system     
+Photoacoustic for clinical applications 
+Biomedical Imaging 
+Circuit and Systems
 
 
 ### Awards
@@ -68,8 +70,14 @@ Outstanding Student Scholarship of ShanghaiTech University in 2018 to 2022.
 **[1]**   **Daohuai Jiang**, Hengrong Lan, Hongtao Zhong, Yongjian Zhao, Haoyan Li, and Fei Gao*, “Low-Cost Photoacoustic Tomography System Based on Multi-Channel Delay-Line Module” IEEE International Symposium on Circuits and Systems (ISCAS), 2019 (oral, selected as one of the top papers and invited to IEEE Trans. CASII).        
 
 #### Patents
-**[P2]**   高飞;**江道淮**;高峰, "[实用新型] 扇形超声换能器阵列结构及全环超声波检测阵列结构," 中国, 申请号：2020227303920  申请日：2020.11.23.    
-**[P1]**   高飞;王誉洁;**江道淮**;高峰, "[实用新型] 一种基于频分复用的多合一数据采集装置及系统," 中国, 申请号：2020226625679 申请日：2020.11.17.
+
+**[P7]** 高飞;**江道淮**;高峰, “[实用新型] 扇形超声换能器阵列结构及全环超声波检测阵列结构,”中国, 申请号：2020227303920 申请日：2020.11.23. 
+**[P6]** 高飞;王誉洁;**江道淮**;高峰, “[实用新型] 一种基于频分复用的多合一数据采集装置及系统,”中国, 申请号：2020226625679 申请日：2020.11.17. 
+**[P5]** 高飞;**江道淮**;高峰, “[发明公布] 基于电磁场空间定位的光声成像系统,”中国, 申请号：2021105000347 申请日：2021.05.08. 
+**[P4]** 高飞;**江道淮**, “[发明公布] 多通道光声信号延迟装置、系统、信号处理方法、终端、介质”，中国, 申请号：2019109600189 申请日：2019.10.10. 
+**[P3]** 高飞;**江道淮**;高峰, “[发明公布] 一种基于可编程声延迟线的多合一数据采集方法”，中国, 申请号：2020112840208 申请日：申请日：2020.11.17. 
+**[P2]** 高飞;**江道淮**,“[发明公布]光声成像系统、传输及成像方法、装置及存储介质”中国, 申请号: 2018114182766 申请日：申请日：2018.11.26. 
+**[P1]** 高飞;兰恒荣;**江道淮**;高峰;李中奇, “[发明公布]单通道实时光声断层扫描成像系统与方法”中国, 申请号: 2020100131179申请日：申请日：2020.01.07. 
 
 
 ### Professional Services
