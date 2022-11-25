@@ -124,7 +124,7 @@ EE 212 Analog Integrated Circuit 2019-2021
 
 [in-vivo wrist blood vessel 3D PAT imaging]
 
-<img src="bloodVessals.jpg" width="70%">
+<img src="bloodVessals2.jpg" width="90%">
 
 [in-vivo wrist blood vessel 3D PAT imaging]
 
